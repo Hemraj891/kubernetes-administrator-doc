@@ -1,4 +1,4 @@
-# Certified Kubernetes Administrator Tutorials 2023
+# Certified Kubernetes Administrator Tutorials 2025
 This repository contains all the files related to the [Certified Kubernetes Administrator Tutorials 2023](https://www.youtube.com/playlist?list=PLY63ZQr2Y5BHkJJhwPjJuJ41CIyv3m7Ru). In this tutorial series, you will learn about the basics of Kubernetes, its control plane components, how to set up a Kubernetes cluster, and various other topics related to Kubernetes administration.
 
 ## Topics Covered
